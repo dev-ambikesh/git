@@ -159,10 +159,5 @@ Discards the most recently stashed changeset
 
 ## Authors
 
-- [@ambikesh](https://www.github.com/octokatherine)
+- [@ambikesh](https://www.github.com/dev-ambikesh)
 
-
-# Git Tutorial By Ambikesh
-
-In this section we're going to learn about every commnad of git and it's working flows.
-I'm going to describe every command and how it works in simple language.
